@@ -1,0 +1,2 @@
+def swaggerurlpatterns():
+    return None
